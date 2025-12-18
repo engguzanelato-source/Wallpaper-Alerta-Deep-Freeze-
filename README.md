@@ -6,7 +6,7 @@ $DesktopUrl = "DesktopImageUrl"
 
 $StatusValue = "1"
 
-$url = "https://raw.githubusercontent.com/engguzanelato-source/Wallpaper-Alerta-Deep-Freeze-imagem/refs/heads/main/README.md"
+$url = "https://github.com/user-attachments/assets/c3e09979-fba3-474e-8374-d54aa82ad86a"
 $DesktopImageValue = "C:\Fondo\MerryChristmas-1920.jpg"
 $directory = "C:\Fondo\"
 
